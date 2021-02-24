@@ -1,0 +1,104 @@
+TryHackMe Free Rooms:
+CTF General:
+https://tryhackme.com/room/ctfcollectionvol1
+
+Open Source Intelligence
+https://tryhackme.com/room/googledorking
+https://tryhackme.com/room/ohsint
+https://tryhackme.com/room/rpsublist3r
+https://tryhackme.com/room/geolocatingimages
+
+Password Cracking
+https://tryhackme.com/room/crackthehash
+
+Steganography
+https://tryhackme.com/room/ccstego
+
+Web Application Exploitation
+https://tryhackme.com/room/furthernmap
+https://tryhackme.com/room/webfundamentals
+https://tryhackme.com/room/learnowaspzap
+https://tryhackme.com/room/introtonetworking
+https://tryhackme.com/room/basicpentestingjt
+
+Reverse Engineering, Enumeration & Exploitation
+https://tryhackme.com/room/ccghidra
+
+Tools of the Trade so far:
+
+OsInt
+https://www.geocachingtoolbox.com/
+https://www.google.com/
+ -> maps
+ -> image search/reverse image search
+Online Barcode Reader - https://online-barcode-reader.inliteresearch.com/
+QR Scanner Online - https://qrscanneronline.com/
+Irfanview - https://www.irfanview.com/
+Exploit DB - https://www.exploit-db.com/
+CVE Lookup - https://cve.mitre.org/
+
+Decrypting/Cypher Tools:
+http://rumkin.com/
+https://www.dcode.fr/
+https://www.cryptii.com/
+https://www.binarytotext.net/
+https://www.duplichecker.com/hex-to-text.php
+https://www.browserling.com/tools/base58-decode
+https://en.wikipedia.org/wiki/Binary-to-text_encoding#Encoding_plain_text
+
+Stego:
+steghide - CLI tool (linux & Windows) http://steghide.sourceforge.net/ / online version: https://futureboy.us/stegano/
+Foto Forensics - https://fotoforensics.com/
+CyberChef - https://www.cyberchef.io
+DIIT - http://diit.sourceforge.net/
+stegsolve - https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
+HxD (Windows Hex Editor) - https://mh-nexus.de/en/hxd/
+binwalk - Linux python script - pip install binwalk
+foremost - Linux tool
+Scalpel - Linux tool
+strings - Linux tool
+HashCalc - Windows GUI Tool - https://www.slavasoft.com/hashcalc/
+MD5 File Checksum - Online Tool - https://emn178.github.io/online-tools/md5_checksum.html
+
+Log Analysys:
+Excel or other spreadsheet software (Except Google Sheets)
+Notepad++ or other text editor with good search
+
+Password cracking tools:
+hashcat - CLI Tool (Linux, Windows, Mac) - https://hashcat.net/
+Ophcrack - GUI Tool (Linux & Windows) https://ophcrack.sourceforge.io/
+ -> Rainbow Tables - https://ophcrack.sourceforge.io/tables.php
+hashid - python script (pip install hashid)
+https://www.crackstation.net/
+https://hashes.com/en/tools/hash_identifier
+https://hashes.com/en/decrypt/hash
+https://www.onlinehashcrack.com/ not necessarily free, free for short/easy passwords, pay for complex passwords.
+https://weakpass.com/wordlist
+
+Forensics:
+7-Zip - Windows GUI Tool - https://www.7-zip.org/
+file - Linux tool
+binwalk - Linux tool
+foremost - Linux tool
+Scalpel - Linux tool
+Git - https://git-scm.com/
+HxD - https://mh-nexus.de/en/hxd/
+https://en.wikipedia.org/wiki/List_of_file_signatures
+
+Scanning & Recon:
+nmap/zenmap - https://nmap.org/
+jXplore - http://www.jxplorer.org/
+WireShark - https://www.wireshark.org/
+
+Enumeration & Exploitation / Reverse Engineering
+HxD - https://mh-nexus.de/en/hxd/
+Ghidra - https://ghidra-sre.org/
+7-Zip - https://www.7-zip.org/
+file - Linux tool
+strings - Linux tool
+Code Beautifier - https://beautifier.io/
+gdb - Linux tool
+foremost
+Scalpel
+Python Decompiler Online - https://python-decompiler.com/
+Easy Python Decompiler - https://sourceforge.net/projects/easypythondecompiler/
