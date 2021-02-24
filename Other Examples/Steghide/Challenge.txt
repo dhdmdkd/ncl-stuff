@@ -2,4 +2,6 @@ Use the steghide command line utility to extraxt the hidden information from the
 
 Example command: steghide extract -sf hidden1.jpg -xf out
 
+For more information use: steghide --help
+
 Use the file command to identify the file type.
