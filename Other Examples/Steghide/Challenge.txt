@@ -1,0 +1,5 @@
+Use the steghide command line utility to extraxt the hidden information from the files named hidden*.jpg.
+
+Example command: steghide extract -sf hidden1.jpg -xf out
+
+Use the file command to identify the file type.
