@@ -1,0 +1,9 @@
+Examine these three images.
+
+Original.jpg has no hidden flags or data.
+
+Hidden 1.jpg has a flag embedded in a part of the file that causes corruption to the image.
+
+Hidden 2.jpg has a flag embedded in a part of the file that does not cause discernable corruption compared to the original image and the flag is not contained in the Metadata or exif data.
+
+Flag format: DHD-MDKD-****
