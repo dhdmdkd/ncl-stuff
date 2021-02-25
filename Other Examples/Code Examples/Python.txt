@@ -1,0 +1,11 @@
+import sys
+import chilkat
+
+b64 = "UEsDBBQA ... AAALgQAAAAA"
+
+zipData = chilkat.CkBinData()
+success = zipData.AppendEncoded(b64,"base64")
+success = zipData.WriteFile("qa_output/out.zip")
+if (success != True):
+    print("failed to write Zip file.")
+    sys.exit()

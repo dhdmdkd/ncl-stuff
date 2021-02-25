@@ -1,0 +1,26 @@
+import com.chilkatsoft.*;
+
+public class ChilkatExample {
+
+  static {
+    try {
+        System.loadLibrary("chilkat");
+    } catch (UnsatisfiedLinkError e) {
+      System.err.println("Native code library failed to load.\n" + e);
+      System.exit(1);
+    }
+  }
+
+  public static void main(String argv[])
+  {
+    String b64 = "UEsDBBQA ... AAALgQAAAAA";
+
+    CkBinData zipData = new CkBinData();
+    boolean success = zipData.AppendEncoded(b64,"base64");
+    success = zipData.WriteFile("qa_output/out.zip");
+    if (success != true) {
+        System.out.println("failed to write Zip file.");
+        return;
+        }
+  }
+}

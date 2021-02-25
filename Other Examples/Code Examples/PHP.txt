@@ -1,0 +1,18 @@
+<?php
+
+// The version number (9_5_0) should match version of the Chilkat extension used, omitting the micro-version number.
+// For example, if using Chilkat v9.5.0.48, then include as shown here:
+include("chilkat_9_5_0.php");
+
+$b64 = 'UEsDBBQA ... AAALgQAAAAA';
+
+$zipData = new CkBinData();
+$success = $zipData->AppendEncoded($b64,'base64');
+$success = $zipData->WriteFile('qa_output/out.zip');
+if ($success != true) {
+    print 'failed to write Zip file.' . "\n";
+    exit;
+}
+
+
+?>

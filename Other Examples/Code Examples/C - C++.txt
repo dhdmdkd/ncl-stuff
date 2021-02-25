@@ -1,0 +1,14 @@
+#include <CkBinData.h>
+
+void ChilkatSample(void)
+    {
+    const char *b64 = "UEsDBBQA ... AAALgQAAAAA";
+
+    CkBinData zipData;
+    bool success = zipData.AppendEncoded(b64,"base64");
+    success = zipData.WriteFile("qa_output/out.zip");
+    if (success != true) {
+        std::cout << "failed to write Zip file." << "\r\n";
+        return;
+    }
+    }

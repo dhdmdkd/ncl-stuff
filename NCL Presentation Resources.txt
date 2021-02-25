@@ -49,9 +49,10 @@ https://en.wikipedia.org/wiki/Binary-to-text_encoding#Encoding_plain_text
 Stego:
 steghide - CLI tool (linux & Windows) http://steghide.sourceforge.net/ / online version: https://futureboy.us/stegano/
 Foto Forensics - https://fotoforensics.com/
-CyberChef - https://www.cyberchef.io
+CyberChef - https://gchq.github.io/CyberChef/
 DIIT - http://diit.sourceforge.net/
 stegsolve - https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
+Similar online tool to stegsolve - https://stegonline.georgeom.net
 HxD (Windows Hex Editor) - https://mh-nexus.de/en/hxd/
 binwalk - Linux python script - pip install binwalk
 foremost - Linux tool
