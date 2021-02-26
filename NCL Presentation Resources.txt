@@ -45,6 +45,7 @@ https://www.binarytotext.net/
 https://www.duplichecker.com/hex-to-text.php
 https://www.browserling.com/tools/base58-decode
 https://en.wikipedia.org/wiki/Binary-to-text_encoding#Encoding_plain_text
+http://www.dialabc.com/sound/detect/
 
 Stego:
 steghide - CLI tool (linux & Windows) http://steghide.sourceforge.net/ / online version: https://futureboy.us/stegano/
