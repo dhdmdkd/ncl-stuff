@@ -1,1 +1,4 @@
-These two files contain different types of password hashes. Passwords are from the rockyou wordlist. Suggest hashid to identify hash types (hint: pass the -m option to hashid to get hashcat modes) and hashcat to crack them.
+These two files contain different types of password hashes. Passwords
+are from the rockyou wordlist. Suggest hashid to identify hash types
+(hint: pass the -m option to hashid to get hashcat modes) and hashcat
+to crack them.
