@@ -91,6 +91,7 @@ Scanning & Recon:
 nmap/zenmap - https://nmap.org/
 jXplore - http://www.jxplorer.org/
 WireShark - https://www.wireshark.org/
+DirBuster - Cross platform Java applet - https://sourceforge.net/projects/dirbuster/
 
 Enumeration & Exploitation / Reverse Engineering
 HxD - https://mh-nexus.de/en/hxd/
