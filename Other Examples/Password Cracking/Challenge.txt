@@ -1,0 +1,1 @@
+These two files contain different types of password hashes. Passwords are from the rockyou wordlist. Suggest hashid to identify hash types and hashcat to crack them.
